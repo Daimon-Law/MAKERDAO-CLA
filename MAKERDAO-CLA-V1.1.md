@@ -82,4 +82,3 @@ Signature: __________________________________ Date: ________________
 
 
 Prepared by Paul Imseih (Daimon Legal) on behalf of the Dai Foundation - © Dai Foundation 2023
-
